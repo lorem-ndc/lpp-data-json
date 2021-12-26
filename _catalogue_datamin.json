@@ -3305,7 +3305,7 @@
   {
     "idx": "220-B",
     "grp": "vet210",
-    "vis": "",
+    "vis": "grid-hidden",
     "cat": "blouse",
     "ori": "oriP",
     "sel": "",
@@ -3323,7 +3323,7 @@
   {
     "idx": "220-S",
     "grp": "vet210",
-    "vis": "grid-hidden",
+    "vis": "",
     "cat": "blouse",
     "ori": "oriL",
     "sel": "",
